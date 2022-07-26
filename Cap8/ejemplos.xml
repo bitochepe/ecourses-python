@@ -1,0 +1,7 @@
+<!--Error de etiqueta no cerrada -->
+<message>
+    <warning>
+        Hola, mundo
+    <!--missing </warning> -->
+</message>
+

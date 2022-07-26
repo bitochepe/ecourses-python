@@ -1,0 +1,15 @@
+{
+    "amigos": [
+        "Pedro",
+        "Juan",
+        "Maria"
+    ],
+    "apellido": "Perez",
+    "direccion": {
+        "calle": "Calle falsa 123",
+        "ciudad": "Guatemala",
+        "pais": "Guatemala"
+    },
+    "edad": 24,
+    "nombre": "Juan"
+}

@@ -1,0 +1,10 @@
+// Lista enlazada simple
+digraph {
+	n1 [label=Juan]
+	n2 [label=Pedro]
+	n3 [label=Cesar]
+	n4 [label=Luis]
+	n3 -> n4 [constraint=false]
+	n2 -> n3 [constraint=false]
+	n1 -> n2 [constraint=false]
+}
